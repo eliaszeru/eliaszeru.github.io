@@ -35,7 +35,7 @@ This portfolio was built using:
 
 ▎Getting Started
 
-To view my portfolio, simply visit eliaszeru.github.io Feel free to explore and see what I've been working on!
+To view my portfolio, simply visit https://eliaszeru.github.io/ Feel free to explore and see what I've been working on!
 
 ▎How to Contribute
 
