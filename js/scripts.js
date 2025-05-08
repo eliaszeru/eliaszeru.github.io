@@ -33,7 +33,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 var typed = new Typed(".auto-type",{
-    strings:["Freelancer","Web developer","Software developer"],
+    strings:["Freelancer","Full Stack developer","Problem Solver"],
     typeSpeed:150,
     backSpeed:150,
     loop: true
